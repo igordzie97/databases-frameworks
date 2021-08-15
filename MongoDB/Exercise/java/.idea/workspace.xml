@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="566c9a92-b7c0-47d9-bbc7-85c42b977247" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jxADAKqXZMGqxhzp4fo2qeU22u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="mongodb_java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mongo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Mongo" />
+      <module name="mongodb_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Mongo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="566c9a92-b7c0-47d9-bbc7-85c42b977247" name="Default Changelist" comment="" />
+      <created>1604735249470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604735249470</updated>
+      <workItem from="1604735251884" duration="226000" />
+      <workItem from="1604735818264" duration="10138000" />
+      <workItem from="1604758504902" duration="27000" />
+      <workItem from="1604759167811" duration="1580000" />
+      <workItem from="1606599633508" duration="67000" />
+      <workItem from="1606599801271" duration="8698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1604737030381">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="653" y="189" key="#com.intellij.ide.util.MemberChooser/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604737030381" />
+    <state width="1638" height="317" key="GridCell.Tab.0.bottom" timestamp="1606614775115">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604751248195" />
+    <state width="1638" height="317" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.962@0.25.1680.962" timestamp="1606614775115" />
+    <state width="1638" height="317" key="GridCell.Tab.0.center" timestamp="1606614775115">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604751248195" />
+    <state width="1638" height="317" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.962@0.25.1680.962" timestamp="1606614775115" />
+    <state width="1638" height="317" key="GridCell.Tab.0.left" timestamp="1606614775114">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604751248195" />
+    <state width="1638" height="317" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.962@0.25.1680.962" timestamp="1606614775114" />
+    <state width="1638" height="317" key="GridCell.Tab.0.right" timestamp="1606614775115">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604751248195" />
+    <state width="1638" height="317" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.962@0.25.1680.962" timestamp="1606614775115" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom" timestamp="1604751248196">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604751248196" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center" timestamp="1604751248196">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.center/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604751248196" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left" timestamp="1604751248196">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.left/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604751248196" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right" timestamp="1604751248196">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.right/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604751248196" />
+    <state x="328" y="79" key="SettingsEditor" timestamp="1604735910278">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="328" y="79" key="SettingsEditor/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604735910278" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1606603341013">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/1680.25.1920.1055/0.25.1680.962@0.25.1680.962" timestamp="1606603341013" />
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup" timestamp="1604741882257">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="505" y="231" width="670" height="676" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.970@0.23.1680.970" timestamp="1604741882257" />
+  </component>
+</project>
